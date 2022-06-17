@@ -7,7 +7,9 @@
 ## How to execute test-run
 
 Checkout the project from the repository.
+
 cd <project-dir>
+  
 mvn clean install
 
 ## Test Report Access
