@@ -6,6 +6,7 @@
 
 ## How to execute test-run
 
+Checkout the project from the repository.
 cd <project-dir>
 mvn clean install
 
@@ -14,4 +15,4 @@ Test report will be generated in below location
   
 <project-dir>/target/surefire-reports/html/index.html
 
-### Sample Test Report
+
