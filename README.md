@@ -8,7 +8,7 @@
 
 Checkout the project from the repository.
 
-cd <project-dir>
+Go to the project location from the terminal. And execute below maven command.
   
 mvn clean install
 
